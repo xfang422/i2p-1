@@ -1,5 +1,44 @@
 # Practical Overview
 
+## To Dos
+
+- [] Export Docker conda environment to Huanfa
+- [] Add Inside Airbnb csv.gz file to Git LFS next to Geopackage.
+- [] Record videos of installing and running both Vagrant and Conda installers. [**Huanfa to record a Windows version**]
+  - Setting up a directory for CASA work (with subdirectories for each class)
+  - Downloading and installing all relevant software
+  - Downloading configuration files for installation (where to save)
+  - Running installation
+  - Any cleanup involved after.
+  - Starting JupyterLab
+  - Downloading a notebook
+  - Launching a notebook
+  - Shutting down the notebook
+  - Shutting down the server
+- How to deal with installation and start-up problems?
+  - Work with PGTAs to deal with individual installation issues.
+  - Support PGTAs so that they know what's going on too!
+  - Simplify installation options: either vagrant *or* YAML (drop VirtualBox for this year).
+  - Remind students that they need to get this sorted ASAP.
+
+## General Notes
+
+- I2P is optional for both CASA programmes.
+- QM is *mandatory* for both CASA programmes.
+- Quiz function in Moodle: one quiz per week of 5–8 questions covering all video and related content (e.g. readings, etc.).
+- Pattern
+  - 30 minutes max for Q&A at the start of class
+    - Based off of Padlet input? So more of an '&A' than Q&A.
+  - 30 minutes in breakout rooms on readings?
+  - Use Zoom & Polls
+    - Have to set up and run as a Webinar
+    - So no student participation orally... all questions must be typed.
+  - Demonstration Data Set
+    - 2019 Crime Data for Chicago: location, timestamp, types (https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie).
+    - For 'We Do' section need to reconcile with the Zoom Webinar format (use polls? *Good idea in principle as they can vote on what to do next but we need to plan ahead on this...*).
+
+## Syllabus
+
 ### Week 1: Setting Up
 
 #### Theoretical Content
