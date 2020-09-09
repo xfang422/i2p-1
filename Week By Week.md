@@ -87,7 +87,7 @@
 - Reading/Writing Data in Pandas
 - Data Types in Pandas
 - Summarising Data in Pandas
-- Indexes in Pandas
+- Indexes in Pandas ***[JR: Move later???]***
 - Basic Plots in Pandas
 - *Structured Data 2: JSON [**This is too much; leave for DSSS**]*
 - *Joins (Non-Spatial)? [**This is too much. Would like to leave it for DSSS**]*
@@ -227,7 +227,7 @@
 
 - DBSCAN 
 - HDBSCAN
-- ADBSCAN
+- pysal.esda.ADBSCAN
 
 #### Linking Content/Activities to Next Week
 
