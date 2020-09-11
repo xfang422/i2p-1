@@ -2,8 +2,9 @@
 
 ## To Dos
 
-- [] Export Docker conda environment to Huanfa
-- [] Add Inside Airbnb csv.gz file to Git LFS next to Geopackage.
+- [x] Export Docker conda environment to Huanfa
+- [x] Add Inside Airbnb csv.gz file to Git LFS next to Geopackage.
+- [ ] Work out whether full conda YAML file is cross-platform and if not white- or black-list libs.
 - [] Record videos of installing and running both Vagrant and Conda installers. [**Huanfa to record a Windows version**]
   - Setting up a directory for CASA work (with subdirectories for each class)
   - Downloading and installing all relevant software
@@ -54,6 +55,11 @@
   - https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/
 - Installing the VM
 - Introducing Markdown
+  - Header levels
+  - Text 
+  - Links
+  - Images
+  - Emphasis
 - The Command Line / Terminal / PowerShell
   - https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
   - http://swcarpentry.github.io/shell-novice/
@@ -61,6 +67,15 @@
 - Git & Version Control
   - Setting up Git/GitHub
   - http://swcarpentry.github.io/git-novice/
+  - Why use version control at all?
+  - What does distributed version control offer? Getting set up on GitHub
+  - Creating a project
+  - Cloning it
+  - Adding files
+  - Committing them back
+  - Pulling changes
+  - Viewing diffs
+  - Moving/Renaming files
 
 #### Linking Content/Activities to Next Week
 
