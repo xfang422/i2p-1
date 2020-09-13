@@ -2,7 +2,7 @@
 
 ### Week by Week
 
-See [Week by Week](Week by Week.md).
+See [lectures](../lectures/) for set readings each week. Need to create bibliography following mechanisms [outlined here](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown#working-with-bibliographies).
 
 ### Ethics Articles (for Data Bio Assessment)
 
