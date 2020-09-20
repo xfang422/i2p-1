@@ -29,6 +29,8 @@ The 'lecture' in your timetable will be used for a mix of discussion and 'live c
 - We will use *your* contributions to the week's Padlet to prioritise discussion around concepts and readings with which students are struggling or wish to engage further.
 - We will have a 'live coding' session following an 'I do/We do' format: we will employ concepts covered in the week's preparation activities, as well as approaches that will be explored further in the practical, to look a real-world data set *together* using code.
 
+So we're going to call these **workshops** instead!
+
 ### Practical
 
 There are two timetabled practical sessions; we will inform you of your assigned session.
@@ -43,7 +45,7 @@ There is no preparation for this session, but please ensure that your computer i
 - How much RAM does your _main_ computer have? [Help for Windows](https://www.howtogeek.com/435644/how-to-see-how-much-ram-is-in-your-pc-and-its-speed/). [Help for Mac](https://www.macworld.co.uk/how-to/mac/much-ram-need-more-3793418/).
 - How much free disk space does your _main_ computer have? [Help for Windows](https://www.lifewire.com/how-to-check-free-hard-drive-space-in-windows-2619187). [Help for Mac](https://www.macworld.com/article/2972775/how-to-check-a-mac-free-hard-drive-space.html).
 
-### Lecture
+### Workshop
 
 - [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
 - Poll Time!
@@ -92,4 +94,46 @@ There is no preparation for this session, but please ensure that your computer i
   - [Setting up Windows without Linux](https://dev.to/jozsefsallai/how-i-ve-set-up-my-windows-machine-as-a-development-environment-without-wsl-2kcl)
   - [Microsoft Python Setup Guide](https://docs.microsoft.com/en-us/windows/python/beginners)
 
+# Week 2: Foundations (Part 1)
 
+### Preparation
+
+#### Installing Vagrant/Anaconda Python
+
+- Watch: installation video for [Mac]() or [Windows]()
+- Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant)
+- *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
+
+#### Lectures
+
+- Watch: [Python: the Basics]()
+- Watch: [Lists](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists)
+- Watch: [Dictionaries](https://github.com/jreades/i2p/blob/master/lectures/2.5-Dictionaries.md)
+- Watch: [Iteration](https://github.com/jreades/i2p/blob/master/lectures/2.6-Iteration.md)
+- Watch: [The Command Line](https://github.com/jreades/i2p/blob/master/lectures/2.7-The_Command_Line.md)
+- Watch: [Getting Stuck Into Git](https://github.com/jreades/i2p/blob/master/lectures/2.8-Git.md)
+
+#### Readings
+
+- [@Burton:1963] [DOI](https://doi.org/10.1111/j.1541-0064.1963.tb00796.x)
+- [@ArribasBel:2018] [DOI](https://doi.org/10.1111/gec3.12403)
+
+#### Contribution
+
+- Padlet: **Collaborative Reflective Agenda**
+
+### Workshop
+
+- [Geography and Computers](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md)
+- [Principles of Programming](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md)
+
+### During the Break
+
+- Make sure you know where to find the [Terminal](https://www.businessinsider.com/how-to-open-terminal-on-mac) (Mac) or PowerShell (Windows)
+- Find and share a useful video on YouTube for [Mac](https://www.youtube.com/results?search_query=terminal+for+beginners+mac) or [Windows](https://www.youtube.com/results?search_query=powershell+for+beginners)
+
+### Practical
+
+- [Practical 1](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb)
+
+### Other Resources
