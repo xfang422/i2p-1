@@ -119,6 +119,15 @@ Windows users will need to install either the [Windows Subsystem for Linux](http
 
 You can **follow along** in a [text version of the installation guide on GitHub](https://github.com/jreades/sds_env/tree/master/conda).
 
+#### Task 4: Installing Command Line Tools
+
+The final thing that we need to do (because it will be useful next week) is install some command line tools that will allow us to interact with Git from the Terminal/Command Prompt. You only need to do one of these:
+
+1. MacOS: install the Xcode Command Line Tools [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+2. Windows: install Git Bash by following [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+
+That's 'it'! You're done. We've had to put a lot of pieces of software in place for the term, but you'll find these useful across multiple modules that are part of your MSc/MRes and you're now set up for the future!
+
 ### Other Useful Resources
 - [The Programming Historian's Guide](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown#working-with-bibliographies)
 - [GitHub Guide](https://guides.github.com/features/mastering-markdown/)
@@ -141,6 +150,13 @@ If you didn't get to this during the practical, then the single most important t
 - Watch: installation video for [Mac](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) or [Windows]()
 - Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant)
 - *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
+
+#### Installing Command Line Tools 
+
+Again, if you didn't get to this during the practical then please do it before we get to Week 2's sessions! You need to install one of:
+
+- The Xcode Command Line Tools (Mac). You can do this [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+- Git Bash (Windows). You can follows [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
 
 #### Lectures
 
@@ -171,13 +187,48 @@ This week in particular is very busy because we need to cover off the basics for
 
 ### During the Break
 
-- Make sure you know where to find the [Terminal](https://www.businessinsider.com/how-to-open-terminal-on-mac) (Mac) or PowerShell (Windows)
+- Make sure you know where to find the [Terminal](https://www.businessinsider.com/how-to-open-terminal-on-mac) (Mac) or AnacondaPrompt (Windows)
 - Find and share a useful video on YouTube for [Mac](https://www.youtube.com/results?search_query=terminal+for+beginners+mac) or [Windows](https://www.youtube.com/results?search_query=powershell+for+beginners)
 
 ### Practical
 
-- Add Practical 1 to your own i2p repo
-- [Practical 1](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb)
-- Commit changes more than once. 
+#### Task 1: Cloning Your Repository
+
+The first thing that we need to do is to get a clone (i.e. copy) of the repository that you created last week on GitHub on to your own computer. This is surprisingly straightforward provided that you have installed either:
+
+1. The Xcode Command Line Tools (Mac). You can do this [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+2. Git Bash (Windows). You can follows [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+
+#### Task 2: Adding Local Files to Your Repository
+
+In order to tie together the different concepts covered above, we now need to add Practicals 1 and 2 from my [i2p repository](https://github.com/jreades/i2p) to your own GitHub repo.
+
+Right now, the easiest way to do this is to open both practicals as Raw text in your browser:
+
+- [Practical 1](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb)
+- [Practical 2](https://github.com/jreades/i2p/blob/master/practicals/Practical-02-Foundations_1.ipynb)
+
+You will then need to:
+
+1. Save both files to your computer as notebooks (with the extension `.ipynb`). Remember that you need to remove the `.txt` extension for these files to be treated as notebooks, not plain text. You can do this at any point (even once using Jupyter) but it may be easiest when you download them.
+
+#### Task 3: Launch Jupyter Lab
+
+If you are able to run Vagrant, then Jupyter Lab will have started automatically for you when you ran the command `vagrant up`. This means that you should be able to visit: [localhost:8888](http://localhost:8888/lab/) and see the Jupyter Lab interface.
+
+If you were forced to run Anaconda Python directly, then you will need to start Jupyter Lab yourself by launching either the Terminal (Mac) or Anaconda Prompt (Windows) and running:
+
+```bash
+conda activate sds2020
+jupyter lab
+```
+
+Make a note of the working directory where you launched Jupyter Lab since it will only be able to see files _under_ this folder (e.g. only in your Downloads folder).
+
+
+
+1. Move the files into your `notebooks` directory (if you are running Vagrant) so that Jupyter can see them. If you are running Anaconda Python directly, then you need to move them to the folder where you typed `jupyter lab`.
+
+
 
 ### Other Resources
