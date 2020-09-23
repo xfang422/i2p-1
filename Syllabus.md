@@ -29,17 +29,17 @@ The 'lecture' in your timetable will be used for a mix of discussion and 'live c
 - We will use *your* contributions to the week's Padlet to prioritise discussion around concepts and readings with which students are struggling or wish to engage further.
 - We will have a 'live coding' session following an 'I do/We do' format: we will employ concepts covered in the week's preparation activities, as well as approaches that will be explored further in the practical, to look a real-world data set *together* using code.
 
-So we're going to call these **workshops** instead!
+So we're going to call these **workshops** instead! These will take place on Zoom and can be accessed using the 'activity' specified on the [Lectures and Workshop Material](https://moodle.ucl.ac.uk/course/view.php?id=11291&section=2) page.
 
 ### Practical
 
-There are two timetabled practical sessions; we will inform you of your assigned session.
+There are two timetabled practical sessions; we will inform you of your assigned session. These will also take place on Zoom and can *also* be accessed using the 'activity' specified on the [Lectures and Workshop Material](https://moodle.ucl.ac.uk/course/view.php?id=11291&section=2) page.
 
 # Week 1: Setting Up
 
 ### Preparation
 
-There is no preparation for this session, but please ensure that your computer is fully up-to-date with Operating System and application updates. Also, please make a note of the following three things:
+Please ensure that your computer is fully up-to-date with Operating System and application updates. Also, please make a note of the following three things:
 
 - What Operating System and Version is your _main_ computer running? [Help for Windows](https://support.microsoft.com/en-gb/help/13443/windows-which-version-am-i-running). [Help for Mac](https://support.apple.com/en-gb/HT201260).
 - How much RAM does your _main_ computer have? [Help for Windows](https://www.howtogeek.com/435644/how-to-see-how-much-ram-is-in-your-pc-and-its-speed/). [Help for Mac](https://www.macworld.co.uk/how-to/mac/much-ram-need-more-3793418/).
@@ -47,17 +47,13 @@ There is no preparation for this session, but please ensure that your computer i
 
 ### Workshop
 
-- [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
 - Poll Time!
   - **Poll**: Where in the world are you?
   - **Poll**: Hopes, fears, and expectations of this module?
+
+- [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
 - [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
 - [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md)
-
-### During the Break
-
-- Sign up for and [log in to Slack](https://casa-students-2020.slack.com)
-- Sign up for and log into [GitHub](https://github.com/) 
 
 ### Practical
 
@@ -67,7 +63,6 @@ Understanding how to use Git and GitHub effectively is a core element of learnin
 
 So in order to complete this task you need to:
 1. Create a login with [GitHub](https://github.com). You may wish to set it up with your UCL email and then link a personal email address as well. 
-2. Using the **#intro-to-programming** channel on [Slack](https://casa-students-2020.slack.com) please share your GitHub acccount handle (*i.e.* [`jreades`](https://github.com/jreades)) by **replying** to Jon's welcome message. This will keep the account names in one place.
 3. Create a new **private** project directly on GitHub. You might as well call it `i2p` since that's a lot shorter than `intro_to_programming_for_spatial_analysts`.
 4. Edit the `README.md` file with some information about what's in the project (_e.g._ your notes and practicals for the module).
 5. Save the changes (this is called a 'commit') and say in a general way what edits you did.
@@ -93,21 +88,25 @@ Add notes incorporating:
 
 Save your changes (don't forget to add a basic comment outlining what you've done) and then view the difference (aka 'History) to see what you've edited.
 
-#### Task 3: Getting Set Up with Vagrant or Anaconda Python
+#### Task 3: Installing Command Line Tools
+
+We need to install some basic tools that will allow us to interact with Git and other applications from the Terminal/Command Prompt. You only need to do one of these depending on your Operating System:
+
+1. **MacOS**: install the Xcode Command Line Tools [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+2. **Windows**: install Git Bash by following [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/). You may *also* find it helpful to install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+#### Task 4: Getting Set Up with Vagrant or Anaconda Python
 
 You may be tempted to leave this for later, but we'd _strongly_ encourage you to try installing the programming environment as soon as possible so that we have as long as possible to help you over any hurdles before we get to week 3 where it will be essential that you are running the environment successfully. In our experience, the students who put off trying to get the environment running end up falling quickly behind as they are unable to complete basic tasks successfully. 
 
-The _majority_ of you will be able to use the [Vagrant](https://www.vagrantup.com/)/[VirtualBox](https://www.virtualbox.org/) solution, but there will be _some_ Windows 10 users whose computers will refuse to run either VirtualBox or Vagrant, in which case will need to run [Anaconda Python](https://anaconda.org/) directly.
+The _majority_ of you will be able to use the [Vagrant](https://www.vagrantup.com/)/[VirtualBox](https://www.virtualbox.org/) solution, but there will be _some_ Windows 10 users whose computers will refuse to run either VirtualBox or Vagrant, in which case will you need to run [Anaconda Python](https://anaconda.org/) directly.
 
 ##### Installing Vagrant 
 
-I have [produced an installation video](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) for users on Apple's MacOS that is available on MS Streams (you need to be logged in as a UCL user in order to view this).
+I have [produced an installation video](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) for users on Apple's MacOS that is available on MS Streams directly as well as from the Moodle Page.
 
-<figure class="video_container">
-    <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/d94bc09d-02c9-45cf-83ed-3badeab3568b?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none;"></iframe>
-</figure>
 
-The process for Windows users will be similar, but you will need to install either the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or [Git BASH](https://gitforwindows.org/). We are working on a video for this.
+The process for Windows users will be similar. We are working on a video for this.
 
 You can **follow along** in a [text version of the installation guide on GitHub](https://github.com/jreades/sds_env/tree/master/vagrant).
 
@@ -115,16 +114,7 @@ You can **follow along** in a [text version of the installation guide on GitHub]
 
 If the installation of Vagrant/VirtualBox fails, then you will need to go down this route for installing the programming environment. 
 
-Windows users will need to install either the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or [Git BASH](https://gitforwindows.org/).
-
 You can **follow along** in a [text version of the installation guide on GitHub](https://github.com/jreades/sds_env/tree/master/conda).
-
-#### Task 4: Installing Command Line Tools
-
-The final thing that we need to do (because it will be useful next week) is install some command line tools that will allow us to interact with Git from the Terminal/Command Prompt. You only need to do one of these:
-
-1. MacOS: install the Xcode Command Line Tools [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-2. Windows: install Git Bash by following [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
 
 That's 'it'! You're done. We've had to put a lot of pieces of software in place for the term, but you'll find these useful across multiple modules that are part of your MSc/MRes and you're now set up for the future!
 
@@ -143,20 +133,20 @@ That's 'it'! You're done. We've had to put a lot of pieces of software in place 
 
 ### Preparation
 
-#### Installing Vagrant/Anaconda Python
-
-If you didn't get to this during the practical, then the single most important thing you can do as preparation for this week is to install the programming environment:
-
-- Watch: installation video for [Mac](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) or [Windows]()
-- Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant)
-- *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
-
 #### Installing Command Line Tools 
 
-Again, if you didn't get to this during the practical then please do it before we get to Week 2's sessions! You need to install one of:
+If you didn't get to this during the practical then *please* do it before we get to Week 2's sessions! You need to install one of:
 
 - The Xcode Command Line Tools (Mac). You can do this [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-- Git Bash (Windows). You can follows [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+- Git Bash (Windows). You can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+
+#### Installing Vagrant/Anaconda Python
+
+Again, if you didn't get to this during the practical, then the single most important thing you can do as preparation for this week is to install the programming environment:
+
+- Watch: installation video for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) or [Windows]() machines.
+- Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant) 
+- *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
 
 #### Lectures
 
@@ -166,7 +156,6 @@ This week in particular is very busy because we need to cover off the basics for
 
 - Watch: [Python: the Basics]()
 - Watch: [Lists](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists)
-- Watch: [Dictionaries](https://github.com/jreades/i2p/blob/master/lectures/2.5-Dictionaries.md)
 - Watch: [Iteration](https://github.com/jreades/i2p/blob/master/lectures/2.6-Iteration.md)
 - Watch: [The Command Line](https://github.com/jreades/i2p/blob/master/lectures/2.7-The_Command_Line.md)
 - Watch: [Getting Stuck Into Git](https://github.com/jreades/i2p/blob/master/lectures/2.8-Git.md)
@@ -180,15 +169,14 @@ This week in particular is very busy because we need to cover off the basics for
 
 - Padlet: **Collaborative Agenda**
 
+#### Quiz!
+
+- Complete the short quiz associated with this week's activities.
+
 ### Workshop
 
 - [Geography and Computers](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md)
 - [Principles of Programming](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md)
-
-### During the Break
-
-- Make sure you know where to find the [Terminal](https://www.businessinsider.com/how-to-open-terminal-on-mac) (Mac) or AnacondaPrompt (Windows)
-- Find and share a useful video on YouTube for [Mac](https://www.youtube.com/results?search_query=terminal+for+beginners+mac) or [Windows](https://www.youtube.com/results?search_query=powershell+for+beginners)
 
 ### Practical
 
