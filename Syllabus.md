@@ -57,77 +57,7 @@ Please ensure that your computer is fully up-to-date with Operating System and a
 
 ### Practical
 
-#### Task 1: Git and Version Control
-
-Understanding how to use Git and GitHub effectively is a core element of learning to code. So one of the _first_ things that we are going to do is set you up with an account and a new project.
-
-So in order to complete this task you need to:
-1. Create a login with [GitHub](https://github.com). You may wish to set it up with your UCL email and then link a personal email address as well. 
-3. Create a new **private** project directly on GitHub. You might as well call it `i2p` since that's a lot shorter than `intro_to_programming_for_spatial_analysts`.
-4. Edit the `README.md` file with some information about what's in the project (_e.g._ your notes and practicals for the module).
-5. Save the changes (this is called a 'commit') and say in a general way what edits you did.
-6. Work out how to compare the original and edited versions of `README.md` in your browser.
-
-#### Task 2: Getting Comfortable with Markdown
-
-To get some practice with Markdown let's write up some notes direclty in our GitHub repository (aka 'repo'). In order to complete this task you will need to:
-1. Select *one* of today's lectures by visiting [jreades/i2p/lectures](https://github.com/jreades/i2p/tree/master/lectures), selecting one of the files starting `1.` .
-2. You will need to click on `Raw` to see the Markdown. 
-3. Select and copy all of the raw Markdown.
-4. Go back to **your** repository and select `Add File > Create New File`, then paste in the copied text.
-5. Once the file has been added successful, edit it by clicking on the 'pencil' icon. 
-
-Add notes incorporating:
-- Plain text
-- Header levels: `#`, `##`, `###`, etc.
-- Emphasis/Italics: `_italics_`, `**bold**`.
-- Lists: `- ` and `1. `.
-- Links: `[link text](url)`.
-- Images: `![Alt text](url)`.
-- Code: \``...`\`.
-
-Save your changes (don't forget to add a basic comment outlining what you've done) and then view the difference (aka 'History) to see what you've edited.
-
-#### Task 3: Installing Command Line Tools
-
-We need to install some basic tools that will allow us to interact with Git and other applications from the Terminal/Command Prompt. You only need to do one of these depending on your Operating System:
-
-1. **MacOS**: install the Xcode Command Line Tools [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-2. **Windows**: install Git Bash by following [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/). You may *also* find it helpful to install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
-
-#### Task 4: Getting Set Up with Vagrant or Anaconda Python
-
-You may be tempted to leave this for later, but we'd _strongly_ encourage you to try installing the programming environment as soon as possible so that we have as long as possible to help you over any hurdles before we get to week 3 where it will be essential that you are running the environment successfully. In our experience, the students who put off trying to get the environment running end up falling quickly behind as they are unable to complete basic tasks successfully. 
-
-The _majority_ of you will be able to use the [Vagrant](https://www.vagrantup.com/)/[VirtualBox](https://www.virtualbox.org/) solution, but there will be _some_ Windows 10 users whose computers will refuse to run either VirtualBox or Vagrant, in which case will you need to run [Anaconda Python](https://anaconda.org/) directly.
-
-##### Installing Vagrant 
-
-I have [produced an installation video](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) for users on Apple's MacOS that is available on MS Streams directly as well as from the Moodle Page.
-
-
-The process for Windows users will be similar. We are working on a video for this.
-
-You can **follow along** in a [text version of the installation guide on GitHub](https://github.com/jreades/sds_env/tree/master/vagrant).
-
-##### Installing Anaconda Python
-
-If the installation of Vagrant/VirtualBox fails, then you will need to go down this route for installing the programming environment. 
-
-You can **follow along** in a [text version of the installation guide on GitHub](https://github.com/jreades/sds_env/tree/master/conda).
-
-That's 'it'! You're done. We've had to put a lot of pieces of software in place for the term, but you'll find these useful across multiple modules that are part of your MSc/MRes and you're now set up for the future!
-
-### Other Useful Resources
-- [The Programming Historian's Guide](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown#working-with-bibliographies)
-- [GitHub Guide](https://guides.github.com/features/mastering-markdown/)
-- [Common Mark](https://commonmark.org/help/)
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/) includes do's and don'ts.
-- Finally, these are a bit overkill but the bits about setting up and installing `git`, `bash`/`zsh`, and so on may come in handy later:
-  - [Setting Up a New Mac](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
-  - [Beginner's Guide to Setting Up Windows 10](https://medium.com/@mfosullivan/a-beginners-guide-to-setting-up-a-modern-web-development-environment-on-windows-10-4d75cd94cde8)
-  - [Setting up Windows without Linux](https://dev.to/jozsefsallai/how-i-ve-set-up-my-windows-machine-as-a-development-environment-without-wsl-2kcl)
-  - [Microsoft Python Setup Guide](https://docs.microsoft.com/en-us/windows/python/beginners)
+This week's practical can be completed [entirely online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) or on your own computer.
 
 # Week 2: Foundations (Part 1)
 
@@ -182,10 +112,21 @@ This week in particular is very busy because we need to cover off the basics for
 
 #### Task 1: Cloning Your Repository
 
-The first thing that we need to do is to get a clone (i.e. copy) of the repository that you created last week on GitHub on to your own computer. This is surprisingly straightforward provided that you have installed either:
+The first thing that we need to do is to get a clone (i.e. copy) of the repository that you created last week on GitHub on to your own computer. This is surprisingly straightforward provided that you have installed the command line tools (as above).
 
-1. The Xcode Command Line Tools (Mac). You can do this [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-2. Git Bash (Windows). You can follows [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+From your private repository page, click on the green button visible in the image below:
+
+![Cloning on GitHub](./img/Cloning.png)
+
+You should then copy the URL (visible in the image) and, from the command line (Terminal or Git Bash) run the following:
+
+```bash
+git clone <url that you copied>
+```
+
+Where `<url that you copied>` is replaced with the information from the GitHub web site.
+
+The first time that you do this, you will need to log in fully so that you have read/write access to GitHub.
 
 #### Task 2: Adding Local Files to Your Repository
 
