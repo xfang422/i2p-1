@@ -84,6 +84,10 @@ Again, if you didn't get to this during the practical, then the single most impo
 - Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant) 
 - *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
 
+#### Code Camp
+
+If you have *not* completed [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), then we would strongly recommend that you tackle Notebooks 3–5 as preparation for the week's class.
+
 #### Lectures
 
 As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. 
@@ -118,3 +122,24 @@ This week in particular is very busy because we need to cover off the basics for
 
 This week's practical requires you to have completed installation of the programming environment. The practical can be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb).
 
+# Week 3: Foundations (Part 2)
+
+### Preparation
+
+#### Code Camp
+
+*All* students should complete/revisit [Code Camp](https://mybinder.org/v2/gh/kingsgeocomp/code-camp-env/notebook-v1.0?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkingsgeocomp%252Fcode-camp%26urlpath%3Dtree%252Fcode-camp%252F%26branch%3Dmaster) Notebooks 8–11.
+
+**Note:** there is an issue with the GeoJSON tasks in Notebooks 8 and 9.
+
+#### Lectures
+
+#### Readings
+
+#### Contribution
+
+#### Quiz!
+
+### Workshop
+
+### Practical
