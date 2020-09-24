@@ -130,7 +130,7 @@ This week's practical requires you to have completed installation of the program
 
 *All* students should complete/revisit [Code Camp](https://mybinder.org/v2/gh/kingsgeocomp/code-camp-env/notebook-v1.0?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkingsgeocomp%252Fcode-camp%26urlpath%3Dtree%252Fcode-camp%252F%26branch%3Dmaster) Notebooks 8–11.
 
-**Note:** there is an issue with the GeoJSON tasks in Notebooks 8 and 9.
+**Note:** there is an issue with the GeoJSON tasks in Notebooks 8 and 9. We can discuss in the Workshop.
 
 #### Lectures
 
