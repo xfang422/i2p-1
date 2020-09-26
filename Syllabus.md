@@ -57,13 +57,13 @@ This information will be very useful during the first few weeks when you are mos
   - **Poll**: Where in the world are you?
   - **Poll**: Hopes, fears, and expectations of this module?
 
-- [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
-- [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
-- [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md)
+- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
+- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
+- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md)
 
 ### Practical
 
-This week's practical can be completed [entirely online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) or on your own computer.
+This week's practical can be completed [entirely online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) up to the point where you need to install the command line tools.
 
 # Week 2: Foundations (Part 1)
 
@@ -86,19 +86,19 @@ Again, if you didn't get to this during the practical, then the single most impo
 
 #### Code Camp
 
-If you have *not* completed [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), then we would strongly recommend that you tackle Notebooks 3–5 as preparation for the week's class.
+If you have ***not* completed [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/)**, then we would strongly recommend that you tackle *Notebooks 3–5* as preparation for the week's class.
 
 #### Lectures
 
 As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. 
 
-This week in particular is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/) while recapping only the crucial bits for those of you who *were* able to do so: 
+This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
 
-- Watch: [Python: the Basics]()
-- Watch: [Lists](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists)
-- Watch: [Iteration](https://github.com/jreades/i2p/blob/master/lectures/2.6-Iteration.md)
-- Watch: [The Command Line](https://github.com/jreades/i2p/blob/master/lectures/2.7-The_Command_Line.md)
-- Watch: [Getting Stuck Into Git](https://github.com/jreades/i2p/blob/master/lectures/2.8-Git.md)
+- Watch: [Python: the Basics]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.3-Python_the_Basics.md))
+- Watch: [Lists]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
+- Watch: [Iteration]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.5-Iteration.md))
+- Watch: [The Command Line]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.6-The_Command_Line.md))
+- Watch: [Getting Stuck Into Git]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.7-Git.md))
 
 #### Readings
 
@@ -115,12 +115,18 @@ This week in particular is very busy because we need to cover off the basics for
 
 ### Workshop
 
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+
 - [Geography and Computers](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md)
 - [Principles of Programming](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md)
+- **Live Coding**
 
 ### Practical
 
-This week's practical requires you to have completed installation of the programming environment. The practical can be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb).
+This week's practical requires you to have completed installation of the programming environment. 
+
+The practical can be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb).
 
 # Week 3: Foundations (Part 2)
 
@@ -134,12 +140,36 @@ This week's practical requires you to have completed installation of the program
 
 #### Lectures
 
+This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/). So although you should recognise many of the _parts_ that we discuss,  you'll see that we start to put them together in a new way:
+
+- Watch: [Dictionaries]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.1-Dictionaries.md))
+- Watch: [LOLs]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.2-LOLs.md))
+- Watch: [DOLs to Data]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.3-DOLs_to_Data.md))
+- Watch: [Functions]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.4-Functions.md))
+- Watch: [Packages]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.5-Packages.md))
+- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.6-Logic.md))
+
 #### Readings
+
+- [@Etherington:2016] [DOI](https://doi.org/10.1080/03098265.2015.1086981)
+- [@Donoho:2017] [DOI](https://doi.org/10.1080/10618600.2017.1384734)
+- [@Unwin:1980] [DOI](https://doi.org/10.1080/03098268008708772)
 
 #### Contribution
 
+- Padlet: **Collaborative Agenda**
+
 #### Quiz!
+
+- Complete the short quiz associated with this week's activities.
 
 ### Workshop
 
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
 ### Practical
+
+The practical can then be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-03-Foundations_2.ipynb).
+
