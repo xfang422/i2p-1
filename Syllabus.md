@@ -28,6 +28,8 @@ There are two timetabled practical sessions; we will inform you of your assigned
 
 # Week 1: Setting Up
 
+This week is focussed on getting you set up for the rest of the course in terms of having the requisite software installed and accounts configured so that you can keep track of your work, write code, and track changes.
+
 ### Preparation
 
 Please ensure that your computer is fully up-to-date with Operating System and application updates. Also, please make a note of the following three things:
