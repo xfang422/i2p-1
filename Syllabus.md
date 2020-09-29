@@ -46,9 +46,9 @@ This information will be very useful during the first few weeks when you are mos
 
 ### Workshop
 
-- Poll Time!
-  - **Poll**: Where in the world are you?
-  - **Poll**: Hopes, fears, and expectations of this module?
+- Poll Time! The password for all Padlets can be found on Moodle.
+  - **Poll**: [Where in the world are you?](https://padlet.com/jreades1/o5xckdew9o6f5jay)
+  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by)
 
 - 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
 - 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
@@ -100,7 +100,7 @@ This week is very busy because we need to cover off the basics for those of you 
 
 #### Contribution
 
-- Padlet: **Collaborative Agenda**
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/7l6grf09kujmjrus)
 
 #### Quiz!
 
