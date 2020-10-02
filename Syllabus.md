@@ -9,7 +9,7 @@ The nature and amount of preparation will vary from week to week, but may includ
 - Readings from both academic and non-academic sources.
 - Recorded lectures from CASA staff.
 - Recorded videos from non-CASA staff.
-- Short quizzes to test your completion of readings and videos.
+- short Moodle quizzes to test your completion of readings and videos.
 - Contributions to a weekly '[Padlet](https://en-gb.padlet.com/)' that will be used to guide the 'synchronous' sessions.
 
 ### 'Lecture'
@@ -135,7 +135,7 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 #### Quiz!
 
-- Complete the short quiz associated with this week's activities.
+- Complete the short Moodle quiz associated with this week's activities.
 
 ### Workshop
 
@@ -183,7 +183,7 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 #### Quiz!
 
-- Complete the short quiz associated with this week's activities.
+- Complete the short Moodle quiz associated with this week's activities.
 
 ### Workshop
 
@@ -194,6 +194,216 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 ### Practical
 
 The practical can then be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-03-Foundations_2.ipynb).
+
+# Week 4: Object-Oriented Programming
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/hmrlizd62gfilfz7)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 5: Numeric Data
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/pg23spvbkfytbcnu)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 6: Spatial Data
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/48f8jhrni5cplyo2)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 7: Textual Data 
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/15mbt34zr6v8e861)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 8: Visualising Data
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/iwn12kf61hfyhbx5)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 9: Classifying Data 
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/7w9x315mt1vjaadm)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
+
+# Week 10: Dimensionality and Clustering 
+
+### Preparation
+
+#### Lectures
+
+- 
+
+#### Readings
+
+- 
+
+#### Contribution
+
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/r5xk6texlxwgga3u)
+
+#### Quiz!
+
+- Complete the short Moodle quiz associated with this week's activities.
+
+### Workshop
+
+- Reviewing the **Collaborative Agenda**
+- Discussion of **Readings**
+- **Live Coding**
+
+### Practical
+
+The practical can then be downloaded from GitHub.
 
 Bibliography
 ============
