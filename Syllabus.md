@@ -98,7 +98,7 @@ If you didn't get to this during the practical then *please* do it before we get
 - **Mac:** the Xcode Command Line Tools, which can be done [directly from the Terminal](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
 - **Windows:** Git Bash, for which you can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
 
-#### Installing Vagrant/Anaconda Python
+#### Installing the Programming Environment
 
 - See the [previous week's instructions](#installing-the-programming-environment-1). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
 
