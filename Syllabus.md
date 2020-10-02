@@ -60,7 +60,7 @@ If you want to get a *little* bit ahead of things, then you should try to instal
 If you want to get even *more* ahead of things, then the single most important thing you can do is to install the programming environment. This is the stage where you're most likely to encounter problems that will need our assistance, so knowing that you need our help here means that you ask for it much sooner!
 
 So we have created an installation video for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) that you can access by clicking the video still below. We're working on a version for Windows users as well, but you can probably follow most of the main steps by watching the MacOS video regardless!
-[![Screen Grab from Installation](https://github.com/jreades/i2p/raw/master/practicals/img/Vagrant_Mac.png)](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b)
+[![Screen Grab from Installation](https://raw.githubusercontent.com/jreades/i2p/master/practicals/img/Vagrant_Mac.png)](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b)
 
 There are also written instructions that you can follow for [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant), if you prefer. If you are on a Windows machine and receive this error:
 
@@ -100,11 +100,19 @@ If you didn't get to this during the practical then *please* do it before we get
 
 #### Installing the Programming Environment
 
-- See the [previous week's instructions](#installing-the-programming-environment). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
+See the [previous week's instructions](#installing-the-programming-environment). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
 
 #### Code Camp
 
 If you have ***not* completed [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/)**, then we would strongly recommend that you tackle *Notebooks 3–5* as preparation for the week's class.
+
+#### Optional: Git & GitHub
+
+If you would like to have more time to focus on coding, please try to get your local computer and GitHub synchronising your *Introduction to Programming* (suggested name: `i2p`) project. Click on the still below to access the video on Streams.
+
+[![Screen Grab from Git and GitHub](https://raw.githubusercontent.com/jreades/i2p/master/practicals/img/Git_GitHub.png)](https://web.microsoftstream.com/video/29a31977-ff9e-4b53-92d3-ee3bb2a769f6)
+
+There are written instructions in the Week's practical.
 
 #### Lectures
 
@@ -186,8 +194,6 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 ### Practical
 
 The practical can then be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-03-Foundations_2.ipynb).
-
-
 
 Bibliography
 ============
