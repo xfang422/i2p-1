@@ -59,10 +59,11 @@ If you want to get a *little* bit ahead of things, then you should try to instal
 
 If you want to get even *more* ahead of things, then the single most important thing you can do is to install the programming environment. This is the stage where you're most likely to encounter problems that will need our assistance, so knowing that you need our help here means that you ask for it much sooner!
 
-So we have created an installation video for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) that you can access by clicking the video still below. We're working on a version for Windows users as well, but you can probably follow most of the main steps by watching the MacOS video regardless!
-[![Screen Grab from Installation](https://raw.githubusercontent.com/jreades/i2p/master/practicals/img/Vagrant_Mac.png)](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b)
+So we have created **installation videos** with transcripts for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) as well as [Windows](https://web.microsoftstream.com/video/ca31d99c-1c98-4a84-abb8-e40bfd307dd6). There are also written instructions that you can follow for [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant), if you prefer. 
 
-There are also written instructions that you can follow for [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant), if you prefer. If you are on a Windows machine and receive this error:
+##### Windows Issues
+
+If you are on a Windows machine and receive this error:
 
 > *VBoxManage.exe: error: Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE).*
 > *VBoxManage.exe: error: VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)*
@@ -72,6 +73,8 @@ Then you have two options:
 
 1. Talk to use about how to enable Hypervisor in the BIOS for computer.
 2. Switch to installing [Anaconda Python directly](https://github.com/jreades/sds_env/tree/master/conda).
+
+We'd recommend \#1 first as it will be useful to have 'virtualisation' enabled on your computer anyway, but we have \#2 has a backup if that's just not possible for some reason!
 
 ### Workshop
 
