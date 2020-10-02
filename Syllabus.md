@@ -100,7 +100,7 @@ If you didn't get to this during the practical then *please* do it before we get
 
 #### Installing the Programming Environment
 
-- See the [previous week's instructions](#installing-the-programming-environment-1). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
+- See the [previous week's instructions](#installing-the-programming-environment). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
 
 #### Code Camp
 
