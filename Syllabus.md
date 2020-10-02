@@ -32,6 +32,10 @@ This week is focussed on getting you set up for the rest of the course in terms 
 
 ### Preparation
 
+Although none of these activities are *compulsory* in advance of the first session, getting your computer set up to code *does* take time and most of these preparatory activites are fairly straightforward... with a few exceptions noted below. If you are able to get these tools installed in advance then you can focus on the taught content in the first two practicals rather than also wrestling with an installation. This will also give us more time to help you if you discover that you're one of the unlucky people for whom installation is a lot more work!
+
+#### Computer Health Check-up
+
 Please ensure that your computer is fully up-to-date with Operating System and application updates. Also, please make a note of the following three things:
 
 - What Operating System and Version is your _main_ computer running? [Help for Windows](https://support.microsoft.com/en-gb/help/13443/windows-which-version-am-i-running). [Help for Mac](https://support.apple.com/en-gb/HT201260).
@@ -43,6 +47,31 @@ This information will be very useful during the first few weeks when you are mos
 1. Your operating system is Windows 10 Home, or something older than Windows 10 (*e.g.* Windows 8 or ealier), or MacOS older than 10.13 (High Sierra).
 2. Your computer has less than 8GB of RAM.
 3. Your computer has less than 15GB of free disk space remaining.
+
+#### Installing Command Line Tools 
+
+If you want to get a *little* bit ahead of things, then you should try to install one of:
+
+- **Mac:** the Xcode Command Line Tools, which can be done [directly from the Terminal](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+- **Windows:** Git Bash, for which you can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+
+#### Installing the Programming Environment
+
+If you want to get even *more* ahead of things, then the single most important thing you can do is to install the programming environment. This is the stage where you're most likely to encounter problems that will need our assistance, so knowing that you need our help here means that you ask for it much sooner!
+
+So we have created an installation video for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) that you can access by clicking the video still below. We're working on a version for Windows users as well, but you can probably follow most of the main steps by watching the MacOS video regardless!
+[![Screen Grab from Installation](https://github.com/jreades/i2p/raw/master/practicals/img/Vagrant_Mac.png)](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b)
+
+There are also written instructions that you can follow for [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant), if you prefer. If you are on a Windows machine and receive this error:
+
+> *VBoxManage.exe: error: Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE).*
+> *VBoxManage.exe: error: VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)*
+> *VBoxManage.exe: error: Details: code E_FAIL (0x80004005), component ConsoleWrap, interface IConsole*
+
+Then you have two options:
+
+1. Talk to use about how to enable Hypervisor in the BIOS for computer.
+2. Switch to installing [Anaconda Python directly](https://github.com/jreades/sds_env/tree/master/conda).
 
 ### Workshop
 
@@ -56,7 +85,7 @@ This information will be very useful during the first few weeks when you are mos
 
 ### Practical
 
-This week's practical can be completed [entirely online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) up to the point where you need to install the command line tools.
+If you have already installed the programming environment then the practical can be downloaded from [GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) (Click on `Raw` and then `Save File As...`) and viewed by saving it to your `Documents/CASA/...` folder, or you can just [view it online](https://github.com/jreades/i2p/blob/master/practicals/Practical-01-Getting_Started.ipynb) in your web browser.
 
 # Week 2: Foundations (Part 1)
 
@@ -64,18 +93,14 @@ This week's practical can be completed [entirely online](https://github.com/jrea
 
 #### Installing Command Line Tools 
 
-If you didn't get to this during the practical then *please* do it before we get to Week 2's sessions! You need to install one of:
+If you didn't get to this during the practical then *please* do it before we get to Week 2's practical! You need to install one of:
 
-- The Xcode Command Line Tools (Mac). You can do this [directly from the command line](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
-- Git Bash (Windows). You can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
+- **Mac:** the Xcode Command Line Tools, which can be done [directly from the Terminal](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/).
+- **Windows:** Git Bash, for which you can follow [these instructions](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/).
 
 #### Installing Vagrant/Anaconda Python
 
-Again, if you didn't get to this during the practical, then the single most important thing you can do as preparation for this week is to install the programming environment:
-
-- Watch: installation video for [Macs](https://web.microsoftstream.com/video/d94bc09d-02c9-45cf-83ed-3badeab3568b) or [Windows]() machines.
-- Try [installing Vagrant](https://github.com/jreades/sds_env/tree/master/vagrant) 
-- *Only* if that doesn't work, try [installing Anaconda Python](https://github.com/jreades/sds_env/tree/master/conda)
+- See the [previous week's instructions](#installing-the-programming-environment-1). It is *vital* that you try to get this installed **before this week's practical**. If you encounter difficulties we will need time to help you, so the sooner you know that you need help, the faster we can help you.
 
 #### Code Camp
 
@@ -83,9 +108,7 @@ If you have ***not* completed [Code Camp](https://kingsgeocomputation.org/teachi
 
 #### Lectures
 
-As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. 
-
-This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
+As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
 
 - Watch: [Python: the Basics]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.3-Python_the_Basics.md))
 - Watch: [Lists]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
@@ -108,7 +131,7 @@ This week is very busy because we need to cover off the basics for those of you 
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
+- Review of **Collaborative Agenda**
 - Discussion of **Readings**
 
 - [Geography and Computers](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md)
@@ -117,9 +140,7 @@ This week is very busy because we need to cover off the basics for those of you 
 
 ### Practical
 
-This week's practical requires you to have completed installation of the programming environment. 
-
-The practical can be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb).
+This week's practical requires you to have **completed installation of the programming environment**. The practical can be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-02-Foundations_1.ipynb).
 
 # Week 3: Foundations (Part 2)
 
@@ -150,7 +171,7 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 #### Contribution
 
-- Padlet: **Collaborative Agenda**
+- Padlet: [Collaborative Agenda](https://padlet.com/jreades1/qsbkobbnbpo057yz)
 
 #### Quiz!
 
@@ -165,8 +186,6 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 ### Practical
 
 The practical can then be downloaded from [GitHub](https://github.com/jreades/i2p/raw/master/practicals/Practical-03-Foundations_2.ipynb).
-
-
 
 
 
