@@ -134,8 +134,8 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 - Review of **Collaborative Agenda**
 - Discussion of **Readings**
 
-- [Geography and Computers](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md)
-- [Principles of Programming](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md)
+- Geography and Computers ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md))
+- Principles of Programming ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md))
 - **Live Coding**
 
 ### Practical
