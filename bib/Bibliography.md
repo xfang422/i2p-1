@@ -5,6 +5,10 @@ Amoore, L. 2019. “Doubt and the Algorithm: On the Partial Accounts of
 Machine Learning.” *Theory, Culture, Society* 36 (6): 147–69.
 <https://doi.org/https://doi.org/10.1177%2F0263276419851846>.
 
+Arribas-Bel, D., and J. Reades. 2018. “Geography and Computers: Past,
+Present, and Future.” *Geography Compass* 0 (0): e12403.
+<https://doi.org/10.1111/gec3.12403>.
+
 Barron, K., E. Kung, and D. Proserpio. 2018. “The Sharing Economy and
 Housing Affordability: Evidence from Airbnb.”
 <https://static1.squarespace.com/static/5bb2d447a9ab951efbf6d10a/t/5bea6881562fa7934045a3f0/1542088837594/The+Sharing+Economy+and+Housing+Affordability.pdf>.
@@ -14,6 +18,10 @@ Theunissen. 2018. “Teaching Ethics When Working with Geocoded Data: A
 Novel Experiential Learning Approach.” *Journal of Geography in Higher
 Education* 42 (2): 293–310.
 <https://doi.org/https://doi.org/10.1080/03098265.2018.1436534>.
+
+Burton, I. 1963. “The Quantitative Revolution and Theoretical
+Geography.” *The Canadian Geographer/Le Géographe Canadien* 7 (4):
+151–62. <https://doi.org/10.1111/j.1541-0064.1963.tb00796.x>.
 
 Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital
 Discrimination: The Case of Airbnb.” *International Journal of
@@ -30,6 +38,10 @@ Tourism-Driven Displacement: A Case Study in Lisbon.” *Environment and
 Planning A: Economy and Space* 0 (0): 1–18.
 <https://doi.org/https://doi.org/10.1177/0308518X19869012>.
 
+Cox, M., and T. Slee. 2016. “How Airbnb’s Data Hid the Facts in New York
+City.” Inside Airbnb.
+<http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf>.
+
 Crawford, K., and M. Finn. 2015. “The Limits of Crisis Data: Analytical
 and Ethical Challenges of Using Social and Mobile Data to Understand
 Disasters.” *GeoJournal* 80 (4): 491–502.
@@ -37,6 +49,10 @@ Disasters.” *GeoJournal* 80 (4): 491–502.
 
 D’Ignazio, Catherine, and Lauren F. Klein. 2020. *Data Feminism*. MIT
 Press. <https://bookbook.pubpub.org/data-feminism>.
+
+Donoho, D. 2017. “50 Years of Data Science.” *Journal of Computational
+and Graphical Statistics* 26 (4): 745–66.
+<https://doi.org/10.1007/978-3-642-23430-9_71>.
 
 Elwood, S., and A. Leszczynski. 2018. “Feminist Digital Geographies.”
 *Gender, Place and Culture* 25 (5): 629–44.
@@ -50,6 +66,10 @@ Elwood, S., and M. Wilson. 2017. “Critical Gis Pedagogies Beyond ‘Week
 Ert, E., A. Fleischer, and N. Magen. 2016. “Trust and Reputation in the
 Sharing Economy: The Role of Personal Photos in Airbnb.” *Tourism
 Management,* 55: 62–63. <https://doi.org/10.1016/j.tourman.2016.01.013>.
+
+Etherington, Thomas R. 2016. “Teaching Introductory Gis Programming to
+Geographers Using an Open Source Python Approach.” *Journal of Geography
+in Higher Education* 40 (1): 117–30.
 
 Eugenio-Martin, J. L., J. M. Cazorla-Artiles, and C. Gonzàlez-Martel.
 2019. “On the Determinants of Airbnb Location and Its Spatial
@@ -86,6 +106,17 @@ Horn, K., and M. Merante. 2017. “Is Home Sharing Driving up Rents?
 Evidence from Airbnb in Boston.” *Journal of Housing Economics* 38:
 14–24. <https://doi.org/10.1016/j.jhe.2017.08.002>.
 
+Kitchin, R., T. P. Lauriault, and G. McArdie. 2016. “Smart Cities and
+the Politics of Urban Data.” In *Smart Urbanism*, edited by McFarlane
+Marvin Luque-Ayala.
+
+Ladd, John R. 2020. “Understanding and Using Common Similarity Measures
+for Text Analysis.” *The Programming Historian*, no. 9.
+<https://doi.org/10.46430/phen0089>.
+
+Lavin, Matthew J. 2019. “Analyzing Documents with Tf-Idf.” *The
+Programming Historian*, no. 8. <https://doi.org/10.46430/phen0082>.
+
 Lee, D. 2016. “How Airbnb Short-Term Rentals Exacerbate Los Angeles’s
 Affordable Housing Crisis: Analysis and Policy Recommendations.”
 *Harvard Law & Policy Review* 10 (1): 229–54.
@@ -101,17 +132,30 @@ Ma, X., J. T. Hancock, K. L. Mingjie, and M. Naaman. 2017.
 Cooperative Work and Social Computation*, 2397–2409.
 <https://doi.org/10.1145/2998181.2998269>.
 
+Muller, C. L., and C. Kidd. 2014. “Debugging Geographers: Teaching
+Programming to Non-Computer Scientists.” *Journal of Geography in Higher
+Education* 38 (2): 175–92.
+<https://doi.org/10.1080/03098265.2014.908275>.
+
+O’Sullivan, D., and S. M. Manson. 2015. “Do Physicists Have Geography
+Envy? And What Can Geographers Learn from It?” *Annals of the
+Association of American Geographers* 105 (4): 704–22.
+
 Quattrone, G., A. Greatorex, D. Quercia, L. Capra, and M. Musolesi.
 2018. “Analyzing and Predicting the Spatial Penetration of Airbnb in
 U.s. Cities.” *EPJ Data Science* 7 (31).
 <https://doi.org/https://doi.org/10.1140/epjds/s13688-018-0156-6>.
 
 Quattrone, Giovanni, Davide Proserpio, Daniele Quercia, Licia Capra, and
-Mirco Musolesi. 2016. “Who Benefits from the "Sharing" Economy of
+Mirco Musolesi. 2016. “Who Benefits from the ‘Sharing’ Economy of
 Airbnb?” In *Proceedings of the 25th International Conference on World
 Wide Web*, 1385–94. WWW ’16. Republic; Canton of Geneva, CHE:
 International World Wide Web Conferences Steering Committee.
 <https://doi.org/10.1145/2872427.2874815>.
+
+Scheider, Simon, Enkhbold Nyamsuren, Han Kruiger, and Haiqi Xu. n.d.
+“Why Geographic Data Science Is Not a Science.” *Geography Compass* n/a
+(n/a): e12537. <https://doi.org/10.1111/gec3.12537>.
 
 Shabrina, Z., E. Arcaute, and M. Batty. 2019. “Airbnb’s Disruption of
 the Housing Structure in London.” ArXiv Prepring. University College
@@ -125,6 +169,10 @@ Informality: The Rise of Peer-to-Peer (P2p) Renting.” CASA Working Paper
 Sthapit, Erose, and Peter Björk. 2019. “Sources of Distrust: Airbnb
 Guests’ Perspectives.” *Tourism Management Perspectives* 31: 245–53.
 <https://doi.org/https://doi.org/10.1016/j.tmp.2019.05.009>.
+
+Unwin, David. 1980. “Make Your Practicals Open-Ended.” *Journal of
+Geography in Higher Education* 4 (2): 39–42.
+<https://doi.org/10.1080/03098268008708772>.
 
 Wachsmuth, D., D. Chaney, D. Kerrigan, A. Shillolo, and R.
 Basalaev-Binder. 2018. “The High Cost of Short-Term Rentals in New York
