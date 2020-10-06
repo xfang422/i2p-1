@@ -138,7 +138,7 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2388403) associated with this week's activities.
 
 ### Workshop
 
