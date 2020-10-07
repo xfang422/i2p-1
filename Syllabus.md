@@ -123,9 +123,9 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 - Watch: [Python: the Basics](https://web.microsoftstream.com/video/dc5951ed-33fb-43a7-8e30-19ec2b41cb1f) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.3-Python_the_Basics.md))
 - Watch: [Lists](https://web.microsoftstream.com/video/21ef45cf-c432-4882-be54-e9bdbdaf7a3b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
-- Watch: [Iteration]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.5-Iteration.md))
-- Watch: [The Command Line]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.6-The_Command_Line.md))
-- Watch: [Getting Stuck Into Git]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.7-Git.md))
+- Watch: [Iteration](https://web.microsoftstream.com/video/ecbf2b2b-6d11-4df0-a28b-caed2badbea1) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.5-Iteration.md))
+- Watch: [The Command Line](https://web.microsoftstream.com/video/5cd2a59c-ab53-4e75-a607-dd5de5e61681) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.6-The_Command_Line.md))
+- Watch: [Getting Stuck Into Git](https://web.microsoftstream.com/video/aa0f7893-4fb5-4af1-ad44-af8e352f4d52) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.7-Git.md))
 
 #### Readings
 
