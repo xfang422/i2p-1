@@ -122,7 +122,7 @@ There are written instructions in the Week's practical.
 As we're working in a 'flipped' environment, you should watch these videos *before* class so that the 'live' (a.k.a. 'synchronous') session can focus on demonstration, discussion, and clarification. This week is very busy because we need to cover off the basics for those of you who were unable to engage with [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/), while recapping only the crucial bits for those of you who *were* able to do so: 
 
 - Watch: [Python: the Basics](https://web.microsoftstream.com/video/dc5951ed-33fb-43a7-8e30-19ec2b41cb1f) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.3-Python_the_Basics.md))
-- Watch: [Lists]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
+- Watch: [Lists](https://web.microsoftstream.com/video/21ef45cf-c432-4882-be54-e9bdbdaf7a3b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.4-Lists.md))
 - Watch: [Iteration]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.5-Iteration.md))
 - Watch: [The Command Line]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.6-The_Command_Line.md))
 - Watch: [Getting Stuck Into Git]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.7-Git.md))
