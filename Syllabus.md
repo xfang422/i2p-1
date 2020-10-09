@@ -169,10 +169,9 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 - Watch: [Dictionaries](https://web.microsoftstream.com/video/041f9734-9368-429c-8f91-2208f9c2ba07) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.1-Dictionaries.md))
 - Watch: [LOLs](https://web.microsoftstream.com/video/129b862b-cb1b-41ab-a6ad-d526eff3fd20) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.2-LOLs.md))
-- Watch: [DOLs to Data]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.3-DOLs_to_Data.md))
-- Watch: [Functions]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.4-Functions.md))
-- Watch: [Packages]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.5-Packages.md))
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.6-Logic.md))
+- Watch: [DOLs to Data](https://web.microsoftstream.com/video/28266460-26b2-4455-ab42-1456f483a412) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.3-DOLs_to_Data.md))
+- Watch: [Functions](https://web.microsoftstream.com/video/3bd3fe3a-5dea-4ac8-a3e2-49ab50b862aa) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.4-Functions.md))
+- Watch: [Packages](https://web.microsoftstream.com/video/0ef82489-8c35-4532-a459-596d8e8f9633) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.5-Packages.md))
 
 #### Readings
 
@@ -203,6 +202,8 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 ### Preparation
 
 #### Lectures
+
+- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.6-Logic.md))
 
 - 
 
