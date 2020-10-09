@@ -167,8 +167,8 @@ This week's practical requires you to have **completed installation of the progr
 
 This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/teaching/code-camp/code-camp-python/). So although you should recognise many of the _parts_ that we discuss,  you'll see that we start to put them together in a new way:
 
-- Watch: [Dictionaries]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.1-Dictionaries.md))
-- Watch: [LOLs]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.2-LOLs.md))
+- Watch: [Dictionaries](https://web.microsoftstream.com/video/041f9734-9368-429c-8f91-2208f9c2ba07) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.1-Dictionaries.md))
+- Watch: [LOLs](https://web.microsoftstream.com/video/129b862b-cb1b-41ab-a6ad-d526eff3fd20) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.2-LOLs.md))
 - Watch: [DOLs to Data]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.3-DOLs_to_Data.md))
 - Watch: [Functions]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.4-Functions.md))
 - Watch: [Packages]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.5-Packages.md))
