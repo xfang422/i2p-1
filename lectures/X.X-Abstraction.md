@@ -38,7 +38,7 @@ Useful for avoiding duplication and parameterising code:
 - I need to create many charts and I want them to be output using a standardised scheme and with the same formatting.
 
 For example, set up a function to: 
-- Take as parameters: a column from a pandas data frame and an option to draw a line for the mean
+- Take as parameters: a column of data and an option to draw a line for the mean
 - And output: a PDF version of your chart sized to A4, using specific fonts, and saved to your desktop using the name of the column as part of the file name (e.g. `"Summary Results for {0}".format(series.name)`)
 
 ---
