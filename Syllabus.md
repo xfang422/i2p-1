@@ -143,7 +143,7 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 ### Workshop
 
-- Review of **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/3ae407c5-ecd7-4394-b775-424a3e32f734))
+- Review of **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/a850dc75-cb3b-431c-a870-d9b4a4b7af29))
 - Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/fdc94583-2409-4bfe-9a30-eda34bc28398))
 
 - Geography and Computers ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md))
