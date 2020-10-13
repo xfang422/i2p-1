@@ -78,13 +78,14 @@ We'd recommend \#1 first as it will be useful to have 'virtualisation' enabled o
 
 ### Workshop
 
+
 - Poll Time! The password for all Padlets can be found on Moodle.
   - **Poll**: [Where in the world are you?](https://padlet.com/jreades1/o5xckdew9o6f5jay)
-  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by)
+  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by) ([Recording](https://web.microsoftstream.com/video/979f3dfb-57b1-40ad-9c08-3e21c29e2d2f))
 
-- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
-- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
-- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md)
+- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md) ([Recording](https://web.microsoftstream.com/video/553fcc7c-f361-45a8-bb20-69055d345a01))
+- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md) ([Recording](https://web.microsoftstream.com/video/86991aba-0305-4cb5-bbb9-f89a5fbebe46))
+- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md) ([Recording](https://web.microsoftstream.com/video/2713168e-47cf-4df6-8cf2-2e9059cc698a))
 
 ### Practical
 
@@ -142,12 +143,12 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 ### Workshop
 
-- Review of **Collaborative Agenda**
-- Discussion of **Readings**
+- Review of **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/3ae407c5-ecd7-4394-b775-424a3e32f734))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/fdc94583-2409-4bfe-9a30-eda34bc28398))
 
 - Geography and Computers ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md))
 - Principles of Programming ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md))
-- **Live Coding**
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/374b3c32-56db-42f4-8fc2-c1833a976dce))
 
 ### Practical
 
