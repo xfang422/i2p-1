@@ -186,7 +186,7 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=24300940) associated with this week's activities.
 
 ### Workshop
 
@@ -204,13 +204,15 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Lectures
 
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.6-Logic.md))
-
-- 
+- Watch: [Methods]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.1-Methods.md))
+- Watch: [Classes]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.2-Classes.md))
+- Watch: [Errors]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.3-Errors.md))
+- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Logic.md))
 
 #### Readings
 
-- 
+- [@Cox:2016] [PDF](http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf)
+- [@dignazio:2020, chap. 5] **Unicorns, Janitors, Ninjas, Wizards, and Rock Stars** [Pre-review Chapter URL](https://bookbook.pubpub.org/pub/fcshwhq6)
 
 #### Contribution
 
@@ -240,7 +242,9 @@ The practical can then be downloaded from GitHub.
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 4] **What Gets Counted Counts** in *Data Feminism*; [Pre-review URL](https://bookbook.pubpub.org/pub/rykaknh1)
+- [@Wachsmuth:2018] [DOI](https://doi.org/10.1177%2F0308518X18778038)
+- [@Harris:2018] [URL](https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities)
 
 #### Contribution
 
