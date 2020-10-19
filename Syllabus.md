@@ -190,9 +190,9 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
+- Reviewing the **Collaborative Agenda** ([Recording Part 1](https://web.microsoftstream.com/video/024260b1-8c2d-4ffe-abc2-a9fe62630afd) and [Recording Part 2](https://web.microsoftstream.com/video/dd67f97f-4470-43be-b2a2-6b862ee80fc3))
 - Discussion of **Readings**
-- **Live Coding**
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/b5df930f-82ba-40a1-9d61-26174b58d2b3))
 
 ### Practical
 
@@ -235,6 +235,8 @@ The practical can then be downloaded from GitHub.
 # Week 5: Numeric Data
 
 ### Preparation
+
+- Exporting to PDF/Executable
 
 #### Lectures
 
