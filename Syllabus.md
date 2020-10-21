@@ -191,7 +191,7 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 ### Workshop
 
 - Reviewing the **Collaborative Agenda** ([Recording Part 1](https://web.microsoftstream.com/video/024260b1-8c2d-4ffe-abc2-a9fe62630afd) and [Recording Part 2](https://web.microsoftstream.com/video/dd67f97f-4470-43be-b2a2-6b862ee80fc3))
-- Discussion of **Readings**
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/6220ab79-4a31-447a-9916-6cb7e3917453))
 - **Live Coding** ([Recording](https://web.microsoftstream.com/video/b5df930f-82ba-40a1-9d61-26174b58d2b3))
 
 ### Practical
