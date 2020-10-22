@@ -204,10 +204,10 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Lectures
 
-- Watch: [Methods]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.1-Methods.md))
-- Watch: [Classes]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.2-Classes.md))
-- Watch: [Errors]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.3-Errors.md))
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Logic.md))
+- Watch: [Methods](https://web.microsoftstream.com/video/d953bec3-667d-4330-88ca-07deb9c68c9a) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.1-Methods.md))
+- Watch: [Classes](https://web.microsoftstream.com/video/8727d485-199e-4f49-ab87-0848366a55ea) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.2-Classes.md))
+- Watch: [Design](https://web.microsoftstream.com/video/caade180-3e55-463c-a5b9-4572dd2cd2f3) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.3-Design.md))
+- Watch: [Exceptions](https://web.microsoftstream.com/video/ab802229-9eb2-46c3-8fa6-a6dec56a6828) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Errors.md))
 
 #### Readings
 
@@ -237,6 +237,7 @@ The practical can then be downloaded from GitHub.
 ### Preparation
 
 - Exporting to PDF/Executable
+- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Logic.md))
 
 #### Lectures
 
