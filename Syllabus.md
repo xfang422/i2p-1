@@ -220,7 +220,7 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [early feedback questionnaire](https://moodle.ucl.ac.uk/mod/questionnaire/view.php?id=2429914) please!
 
 ### Workshop
 
@@ -232,16 +232,17 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 The practical can then be downloaded from GitHub.
 
-# Week 5: Numeric Data
+# Week 5: Pandas!
 
 ### Preparation
 
-- Exporting to PDF/Executable
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Logic.md))
-
 #### Lectures
 
-- 
+- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Logic.md))
+- Watch: [Pandas Series]() ([Notes]())
+- Watch: [Pandas Data Frame]() ([Notes]())
+- Watch: [Pandas Operations]() ([Notes]())
+- Watch: [Simple Plots]() ([Notes]())
 
 #### Readings
 
@@ -273,7 +274,7 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Watch: [Exporting to PDF/Executable]() ([Notes]())
 
 #### Readings
 
