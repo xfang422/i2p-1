@@ -224,9 +224,9 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/d7e3debe-fd62-475d-900c-6244938f7225))
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/927265a6-a3c4-4855-b96e-834b3fd90a07))
 - Discussion of **Readings** (see Above)
-- **Live Coding** ([Part 2](https://web.microsoftstream.com/video/9e80bb2a-2ec5-470d-a6cb-62143f3bac55); [Part 3]())
+- **Live Coding** ([Part 2](https://web.microsoftstream.com/video/97baab26-6aad-43f5-a9f8-afb633b59d58); [Part 3](https://web.microsoftstream.com/video/2c593785-436d-4490-b591-b12379440ea5))
 
 ### Practical
 
