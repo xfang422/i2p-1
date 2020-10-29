@@ -238,10 +238,10 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.1-Logic.md))
-- Watch: [Randomness]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.2-Randomness.md))
-- Watch: [Data Files]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.3-Files.md))
-- Watch: [Pandas]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.4-Pandas.md))
+- Watch: [Logic](https://web.microsoftstream.com/video/b9684684-5210-4917-8066-c7c247872051) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.1-Logic.md))
+- Watch: [Randomness](https://web.microsoftstream.com/video/18ee48e3-81d9-42d2-9e24-d434a9aa06ce) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.2-Randomness.md))
+- Watch: [Data Files](https://web.microsoftstream.com/video/465db9d5-fc82-42f7-ada4-089a01de1d7b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.3-Files.md))
+- Watch: [Pandas](https://web.microsoftstream.com/video/ce84fd59-b44f-40cb-804b-593613053e24) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.4-Pandas.md))
 - Watch: [Exploratory Data Analysis]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.5-EDA.md))
 
 #### Readings
