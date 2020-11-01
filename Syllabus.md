@@ -232,7 +232,7 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 The practical can then be downloaded from GitHub.
 
-# Week 5: Pandas!
+# Week 5: Numeric Data
 
 ### Preparation
 
@@ -267,6 +267,20 @@ The practical can then be downloaded from GitHub.
 ### Practical
 
 The practical can then be downloaded from GitHub.
+
+# Reading Week
+
+You should be doing the readings that will support your answers to Assessment #2.
+
+### Readings
+
+In addition to looking for relevant content in [@dignazio:2020] ([URL](https://bookbook.pubpub.org/data-feminism)), you will also want to check consider:
+
+- [@Elwood:2017] [DOI](https://doi.org/10.1080/13658816.2017.1334892)
+- [@Elwood:2018] [DOI](https://doi.org/10.1080/0966369X.2018.1465396)
+- [@Bemt:2018] [DOI](https://doi.org/10.1080/03098265.2018.1436534)
+- [@Amoore:2019] [DOI](https://doi.org/10.1177%2F0263276419851846)
+- [@Crawford:2015] [DOI](https://doi.org/10.1007/s10708-014-9597-z)
 
 # Week 6: Spatial Data
 
