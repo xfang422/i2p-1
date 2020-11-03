@@ -102,6 +102,10 @@ Comparative Performance Expectations.” *International Journal of
 Hospitality Management* 64: 1–10.
 <https://doi.org/10.1016/j.ijhm.2017.02.003>.
 
+Harris, J. 2018. “Profiteers make a killing on Airbnb – and erode
+communities.”
+<https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities>.
+
 Horn, K., and M. Merante. 2017. “Is Home Sharing Driving up Rents?
 Evidence from Airbnb in Boston.” *Journal of Housing Economics* 38:
 14–24. <https://doi.org/10.1016/j.jhe.2017.08.002>.
@@ -169,6 +173,9 @@ Informality: The Rise of Peer-to-Peer (P2p) Renting.” CASA Working Paper
 Sthapit, Erose, and Peter Björk. 2019. “Sources of Distrust: Airbnb
 Guests’ Perspectives.” *Tourism Management Perspectives* 31: 245–53.
 <https://doi.org/https://doi.org/10.1016/j.tmp.2019.05.009>.
+
+Temperton, James. 2020. “Airbnb Has Devoured London – and Here’s the
+Data That Proves It.” Oneline; Wired UK. February 2020.
 
 Unwin, David. 1980. “Make Your Practicals Open-Ended.” *Journal of
 Geography in Higher Education* 4 (2): 39–42.
