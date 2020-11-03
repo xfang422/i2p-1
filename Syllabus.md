@@ -230,7 +230,7 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-04-Objects.ipynb).
 
 # Week 5: Numeric Data
 
@@ -242,7 +242,6 @@ The practical can then be downloaded from GitHub.
 - Watch: [Randomness](https://web.microsoftstream.com/video/18ee48e3-81d9-42d2-9e24-d434a9aa06ce) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.2-Randomness.md))
 - Watch: [Data Files](https://web.microsoftstream.com/video/465db9d5-fc82-42f7-ada4-089a01de1d7b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.3-Files.md))
 - Watch: [Pandas](https://web.microsoftstream.com/video/ce84fd59-b44f-40cb-804b-593613053e24) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.4-Pandas.md))
-- Watch: [Exploratory Data Analysis]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.5-EDA.md))
 
 #### Readings
 
@@ -254,19 +253,16 @@ The practical can then be downloaded from GitHub.
 
 - Padlet: [Collaborative Agenda](https://padlet.com/jreades1/pg23spvbkfytbcnu)
 
-#### Quiz!
-
-- Complete the short Moodle quiz associated with this week's activities.
-
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Brief Discussion of **Assessments* ([Recording](https://web.microsoftstream.com/video/b2ccf725-3328-4acc-9f13-fe84f0fa8f4d))
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b?st=822))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/05870663-8cf2-464e-9932-e6e550077d0f))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-05-Numeric_Data.ipynb).
 
 # Reading Week
 
@@ -285,6 +281,8 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 # Week 6: Spatial Data
 
 ### Preparation
+
+- Watch: [Exploratory Data Analysis]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.5-EDA.md))
 
 #### Lectures
 
@@ -310,7 +308,7 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-06-Spatial_Data.ipynb).
 
 # Week 7: Textual Data 
 
