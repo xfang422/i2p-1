@@ -266,7 +266,7 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 # Reading Week
 
-You should be doing the readings that will support your answers to Assessment #2.
+You should be doing the readings that will support your answers to Assessment #2. And, looking ahead to the Final Assessment and where you might find ideas or literature to support your thinking, I'd suggest having a browse of the [Full Bibliography](https://github.com/jreades/i2p/blob/master/bib/Bibliography.md). This is a working document and I will add more items as and when I come across them or new works are published!
 
 ### Readings
 
