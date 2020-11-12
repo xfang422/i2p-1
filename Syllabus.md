@@ -286,10 +286,10 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 **Videos coming soon!**
 
-- Watch: [Mapping]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.1-Mapping.md))
-- Watch: [GeoPandas]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.2-Geopandas.md))
-- Watch: [EDA]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.3-EDA.md))
-- Watch: [ESDA]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.4-ESDA.md))
+- Watch: [Mapping](https://web.microsoftstream.com/video/74559a29-4214-4f79-8d41-06293ba1bade) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.1-Mapping.md))
+- Watch: [GeoPandas](https://web.microsoftstream.com/video/b79dab45-1390-40e9-b97b-ffd3c63e55d6) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.2-Geopandas.md))
+- Watch: [EDA](https://web.microsoftstream.com/video/bf4b47c4-2bbc-4989-a11c-cc3be529cef1) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.3-EDA.md))
+- Watch: [ESDA](https://web.microsoftstream.com/video/5c0a28b2-eb42-4ace-baed-a0fa9131aa4a) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.4-ESDA.md))
 
 #### Readings
 
