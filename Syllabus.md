@@ -282,15 +282,19 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 ### Preparation
 
-- Watch: [Exploratory Data Analysis]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.5-EDA.md))
-
 #### Lectures
 
-- Watch: [Exporting to PDF/Executable]() ([Notes]())
+**Videos coming soon!**
+
+- Watch: [Mapping]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.1-Mapping.md))
+- Watch: [GeoPandas]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.2-Geopandas.md))
+- Watch: [EDA]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.3-EDA.md))
+- Watch: [ESDA]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.4-ESDA.md))
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 6] **The Numbers Don't Speak for Themselves** in *Data Feminism*; [Pre-review URL](https://bookbook.pubpub.org/pub/6ui5n4vo)
+- [@Elwood:2017] [DOI](https://doi.org/10.1080/13658816.2017.1334892) 
 
 #### Contribution
 
@@ -313,6 +317,11 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 # Week 7: Textual Data 
 
 ### Preparation
+
+- Watch: [Notebooks as Documents]() ([Notes]())
+- Watch: [Processing Textual Data]() ([Notes]())
+- Watch: [Regular Expressions]() ([Notes]())
+- Watch: [Intro to NLP]() ([Notes]())
 
 #### Lectures
 
