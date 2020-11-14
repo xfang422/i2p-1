@@ -284,8 +284,6 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 #### Lectures
 
-**Videos coming soon!**
-
 - Watch: [Mapping](https://web.microsoftstream.com/video/74559a29-4214-4f79-8d41-06293ba1bade) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.1-Mapping.md))
 - Watch: [GeoPandas](https://web.microsoftstream.com/video/b79dab45-1390-40e9-b97b-ffd3c63e55d6) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.2-Geopandas.md))
 - Watch: [EDA](https://web.microsoftstream.com/video/bf4b47c4-2bbc-4989-a11c-cc3be529cef1) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.3-EDA.md))
@@ -318,10 +316,12 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 ### Preparation
 
-- Watch: [Notebooks as Documents]() ([Notes]())
-- Watch: [Processing Textual Data]() ([Notes]())
-- Watch: [Regular Expressions]() ([Notes]())
-- Watch: [Intro to NLP]() ([Notes]())
+** Videos coming soon! **
+
+- Watch: [Notebooks as Documents]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.1-Notebooks_as_Documents.md))
+- Watch: [Patterns in Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.2-Patterns_in_Text.md))
+- Watch: [Cleaning Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.3-Cleaning_Text.md))
+- Watch: [Analysing Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.4-Analysing_Text.md))
 
 #### Lectures
 
