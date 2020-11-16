@@ -304,9 +304,9 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
+- Discussion of **Readings** (see [Collaborative Agenda](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/292b318e-223d-48dd-9e2e-efe33c1acb3d))
 
 ### Practical
 
