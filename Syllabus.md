@@ -318,8 +318,8 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 ** Videos coming soon! **
 
-- Watch: [Notebooks as Documents]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.1-Notebooks_as_Documents.md))
-- Watch: [Patterns in Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.2-Patterns_in_Text.md))
+- Watch: [Notebooks as Documents](https://web.microsoftstream.com/video/fa80e0b3-a14a-44dd-b9b5-1774dde219ba) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.1-Notebooks_as_Documents.md))
+- Watch: [Patterns in Text](https://web.microsoftstream.com/video/9e419529-f1d7-40a9-94e3-3adf8c4608f6) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.2-Patterns_in_Text.md))
 - Watch: [Cleaning Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.3-Cleaning_Text.md))
 - Watch: [Analysing Text]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.4-Analysing_Text.md))
 
