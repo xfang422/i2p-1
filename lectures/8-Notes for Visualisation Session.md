@@ -1,5 +1,9 @@
 # Notes for Visualisation Session
 
+- Automation (e.g. using a function to apply same style to all elements)
+- Automation (e.g. using a function to create a comparable plot for each columns)
+- Joins
+
 ## Seaborn
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
