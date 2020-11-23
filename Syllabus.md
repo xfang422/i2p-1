@@ -353,11 +353,16 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- On Telling Stories with Data
+- Seaborn
+- Matplotlib
+- Automation
+- Other Visualisations
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 3] On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints in Data Feminism; [Pre-review URL](https://bookbook.pubpub.org/pub/8tjbs2x5)
+- Badger, E. and Bui, Q. and Gebeloff, R. (2019) Neighborhood Is Mostly Black. The Home Buyers Are Mostly White. New York Times [URL](https://www.nytimes.com/interactive/2019/04/27/upshot/diversity-housing-maps-raleigh-gentrification.html)
 
 #### Contribution
 
@@ -383,11 +388,16 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Normalisation & Standardisation
+- Transformations 
+- PySAL
+- Aggregation & Joins
 
 #### Readings
 
-- 
+- Bunday, B.D. (????) A Final Tale or You Can Prove Anything with Figures [URL](https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf)
+- Harris, R. (2019), The Certain Uncertainty of University Rankings [URL](https://rpubs.com/profrichharris/uni-rankings)
+- Cima, R. (2014) The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) [But need to provide PDF as figures now missing]
 
 #### Contribution
 
@@ -407,17 +417,19 @@ The practical can then be downloaded from GitHub.
 
 The practical can then be downloaded from GitHub.
 
-# Week 10: Dimensionality and Clustering 
+# Week 10: Grouping Data 
 
 ### Preparation
 
 #### Lectures
 
-- 
+- Dimensionality Reduction
+- Clustering 
 
 #### Readings
 
-- 
+- Shapiro, W. and Yavuz, M. (2017) Rethinking 'distance' in New York City Medium [URL](https://medium.com/topos-ai/rethinking-distance-in-new-york-city-d17212d24919)
+
 
 #### Contribution
 
