@@ -345,7 +345,7 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-07-Textual_Data.ipynb).
 
 # Week 8: Visualising Data
 
