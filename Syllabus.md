@@ -300,7 +300,7 @@ In addition to looking for relevant content in [@dignazio:2020] ([URL](https://b
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2532856) associated with this week's activities.
 
 ### Workshop
 
@@ -335,13 +335,13 @@ The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blo
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2555003) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/bc6c55dd-a34d-41bb-919b-a7f781570777))
+- Discussion of **Readings** (see above)
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/0bc57b29-6840-45e6-8cda-e7ec88acef5e))
 
 ### Practical
 
