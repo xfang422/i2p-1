@@ -1,24 +1,24 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20141163
 
 ---
 
 ### 1. Who collected the data?
 
-_Your answer here_
+
 
 ---
 
 ### 2. Why did they collect it?
 
-_Your answer here_
+By analyzing publicly available information about a city's Airbnb's listings, Inside Airbnb provides filters and key metrics so we can see how Airbnb is being used to compete with the residential housing market.
 
 ---
 
 ### 3. How was it collected?
 
-_Your answer here_
+It scrapes data from the Airbnb web site for a city (labelled a search area) , and stores the result in a database. Each collection of a single city is called a survey. A single database holds many separate surveys, including some of the same city. The database system used is now PostgreSQL.
 
 ---
 
